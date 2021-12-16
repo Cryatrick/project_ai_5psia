@@ -1,4 +1,6 @@
 # project_ai_5psia
-1. pip install -r requirement.txt
-2. py save_face.py
-3. py face_recognizer.py
+1. Download the fer2013 dataset from Here[https://drive.google.com/drive/folders/19EUSUHZD0JYwuPrmP5SI7xnkm8PzUQ_j?usp=sharing]
+2. extract to project folder
+3. pip install -r requirement.txt
+4. py save_face.py
+5. py face_recognizer.py
